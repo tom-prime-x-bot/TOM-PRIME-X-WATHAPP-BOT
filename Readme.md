@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000,100:00ff00&height=150&section=header&text=TOM%20MINI%20BOT&fontSize=40&fontColor=00ff00&animation=twinkling"/>
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:000&height=70&section=header&text=TOM%20MINI%20BOT&fontSize=32&fontColor=ffffff&fontAlignY=50" alt="TOM MINI BOT"/>
 
