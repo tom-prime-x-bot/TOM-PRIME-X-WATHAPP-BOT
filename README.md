@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000,100:00ff88&height=120&section=header&text=TOM%20PRIME%20X%20WHATSAPP%20BOT&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=twinkling" alt="TOM PRIME X MINI BOT"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000,100:00ff88&height=120&section=header&text=TOM%20PRIME%20X%20MINI%20BOT&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=twinkling" alt="TOM PRIME X MINI BOT"/>
 </div>
 
 <p align="center">
