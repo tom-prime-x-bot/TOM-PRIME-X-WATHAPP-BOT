@@ -2,7 +2,7 @@
  * Message Handler - Processes incoming messages and executes commands
  */
 
-const config = require('./config');
+const config = require('./pair');
 const database = require('./database');
 const { loadCommands } = require('./utils/commandLoader');
 const { addMessage } = require('./utils/groupstats');
