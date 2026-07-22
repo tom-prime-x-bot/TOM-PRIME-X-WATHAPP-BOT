@@ -13,6 +13,7 @@ const {
     makeInMemoryStore,
     generateWAMessageContent  
 } = require("@whiskeysockets/baileys");
+const handleMessage = require("./handler");
 const handleMessage = require("./drenox");
 const NodeCache = require("node-cache");
 const _ = require('lodash')
